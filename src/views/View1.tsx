@@ -2,7 +2,8 @@ import React from 'react';
 import {View, Text, Image} from 'react-native';
 import styles from '../styles/styles';
 
-const Vista1 = ({}) => {
+
+const View1 = ({}) => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Hola Buenos Dias</Text>
@@ -17,4 +18,4 @@ const Vista1 = ({}) => {
   );
 };
 
-export default Vista1;
+export default View1;

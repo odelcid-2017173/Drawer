@@ -2,7 +2,8 @@ import React from 'react';
 import {View, Text, Image} from 'react-native';
 import styles from '../styles/styles';
 
-const Vista2 = ({}) => {
+
+const View2 = ({}) => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Level Up</Text>
@@ -17,4 +18,5 @@ const Vista2 = ({}) => {
   );
 };
 
-export default Vista2;
+
+export default View2;
